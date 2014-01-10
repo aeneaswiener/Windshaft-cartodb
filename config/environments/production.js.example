@@ -58,7 +58,7 @@ var config = {
     }
     ,sqlapi: {
         protocol: 'http',
-        domain: 'localhost.lan',
+        domain: 'cytora.net',
         port: 8080,
         version: 'v2'
     }
